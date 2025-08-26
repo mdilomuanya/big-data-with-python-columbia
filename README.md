@@ -1,4 +1,4 @@
-# big-data-with-python-columbia
+# Big Data With Python Columbia Unversity
 This repository contains all of my Jupyter Notebooks from Big Data with Python at Columbia University, where I earned an A in the course. The class was a hands-on, project-based introduction to analyzing and visualizing large datasets using Python, with a strong emphasis on real-world environmental and climate data.
 
 Key Skills and Tools Learned:
